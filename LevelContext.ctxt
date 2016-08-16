@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=LevelContext(Levels)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ setTimerLevel()
+comment3.params=
+comment3.target=Levels\ nextLevel()
+comment4.params=level
+comment4.target=void\ setLevel(Levels)
+comment5.params=
+comment5.target=Levels\ getLevel()
+numComments=6

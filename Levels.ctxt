@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=timer
+comment0.target=void\ setTimer(int)
+comment1.params=
+comment1.target=void\ setTimerLevel()
+comment2.params=
+comment2.target=int\ getTimer()
+numComments=3

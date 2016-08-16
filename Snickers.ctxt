@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Snickers()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ path()
+comment3.params=fn
+comment3.target=void\ remove(CandyPanda)
+comment3.text=\r\n\ Pop\ this\ Snickers.\r\n
+numComments=4

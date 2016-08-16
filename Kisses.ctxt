@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kisses()
+comment1.params=
+comment1.target=void\ path()
+comment1.text=\r\n\ \ \ \ public\ void\ act()\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ path();\r\n\ \ \ \ }\r\n
+comment2.params=fn
+comment2.target=void\ remove(CandyPanda)
+comment2.text=\r\n\ Pop\ this\ kisses.\r\n
+numComments=3
